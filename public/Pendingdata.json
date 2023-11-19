@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "name": "Sam Altman",
+        "email":"samaltman123@gmail.com",
+        "riskLevel":"Medium",
+        "tiggerReason":"IP Change",
+        "inQueueFor":"4 Days",
+        "date":"12 Oct,2023",
+        "prevReviwed":"Yes",
+        "prevReviwedDate":"12 Sep,2023"
+    },
+    {
+        "id": 2,
+        "name": "Sameer Choubey",
+        "email":"sameerchoubey123@gmail.com",
+        "riskLevel":"High",
+        "tiggerReason":"FIFO",
+        "inQueueFor":"4 Days",
+        "date":"12 Oct,2023",
+        "prevReviwed":"No"
+    },
+    {
+        "id": 3,
+        "name": "Adarsh Panikkar",
+        "email":"adarsh@onjuno.com",
+        "riskLevel":"Low",
+        "tiggerReason":"IP Change",
+        "inQueueFor":"5 Days",
+        "date":"12 Oct,2023",
+        "prevReviwed":"No"
+    },
+    {
+        "id": 4,
+        "name": "Pratik Shetty",
+        "email":"pratik3@gmail.com",
+        "riskLevel":"Low",
+        "tiggerReason":"FIFO",
+        "inQueueFor":"5 Days",
+        "date":"12 Oct,2023",
+        "prevReviwed":"Yes",
+        "prevReviwedDate":"12 Sep,2023"
+    },
+    
+    {
+        "id": 5,
+        "name": "Elon Musk",
+        "email":"elon@twitterceo.com",
+        "riskLevel":"Low",
+        "tiggerReason":"FIFO",
+        "inQueueFor":"5 Days",
+        "date":"12 Oct,2023",
+        "prevReviwed":"Yes",
+        "prevReviwedDate":"12 Sep,2023"
+    },
+    {
+        "id": 6,
+        "name": "Trina Kundu",
+        "email":"trina@onjuno.co",
+        "riskLevel":"Low",
+        "tiggerReason":"FIFO",
+        "inQueueFor":"5 Days",
+        "date":"12 Oct,2023",
+        "prevReviwed":"Yes",
+        "prevReviwedDate":"12 Sep,2023"
+    }
+]

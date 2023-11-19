@@ -1,0 +1,69 @@
+[
+    {
+        "id": 1,
+        "name": "Sam Altman",
+        "email":"samaltman123@gmail.com",
+        "riskLevel":"Medium",
+        "actionTaken":"Flagged",
+        "timeToClose":"14 days",
+        "date":"12 Oct,2023",
+        "actionTakenBy":"Neil",
+        "actionTakenByMail":"neil@onjuno.com"
+    },
+    {
+        "id": 2,
+        "name": "Sameer Choubey",
+        "email":"sameerchoubey123@gmail.com",
+        "riskLevel":"High",
+        "actionTaken":"Closed",
+        "timeToClose":"14 days",
+        "date":"12 Oct,2023",
+        "actionTakenBy":"Pratik",
+        "actionTakenByMail":"pratik@onjuno.com"
+    },
+    {
+        "id": 3,
+        "name": "Adarsh Panikkar",
+        "email":"adarsh@onjuno.com",
+        "riskLevel":"Low",
+        "actionTaken":"Cleared",
+        "timeToClose":"15 days",
+        "date":"12 Oct,2023",
+        "actionTakenBy":"Prashanth",
+        "actionTakenByMail":"prashanth@onjuno.com"
+    },
+    {
+        "id": 4,
+        "name": "Pratik Shetty",
+        "email":"pratik3@gmail.com",
+        "riskLevel":"Low",
+        "actionTaken":"SOI requested",
+        "timeToClose":"15 days",
+        "date":"12 Oct,2023",
+        "actionTakenBy":"Rasleen Kaur ",
+        "actionTakenByMail":"rasleen@onjuno.com"
+    },
+    
+    {
+        "id": 5,
+        "name": "Elon Musk",
+        "email":"elon@twitterceo.com",
+        "riskLevel":"Low",
+        "actionTaken":"Flagged",
+        "timeToClose":"15 days",
+        "date":"12 Oct,2023",
+        "actionTakenBy":"Pratik Shetty",
+        "actionTakenByMail":"Pratik Shetty"
+    },
+    {
+        "id": 6,
+        "name": "Trina Kundu",
+        "email":"trina@onjuno.co",
+        "riskLevel":"Low",
+        "actionTaken":"Closed",
+        "timeToClose":"15 days",
+        "date":"12 Oct,2023",
+        "actionTakenBy":"Varun Deshpande ",
+        "actionTakenByMail":"varun@onjuno.com"
+    }
+]
